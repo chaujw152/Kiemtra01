@@ -1,3 +1,4 @@
-h1{font - family: Arial;
- text-algin: center;
-}
+ h1, h3, p{
+           font-family: Arial,sans-serif;
+       }
+
