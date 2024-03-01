@@ -1,7 +1,9 @@
  h1, h3,{
-          font-family: "Arial",monospace;
+          font-family: arial, Helvetica, sans-serif;
+ text-align:center;
        }
 p{
-  font-family: Arial;
+  font-family: arial, Helvetica, sans-serif;
+   text-align:center;
  
   }
