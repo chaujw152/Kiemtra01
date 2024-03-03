@@ -10,6 +10,8 @@ p{
   font-family: arial, Helvetica, sans-serif;
    text-align:center;
  
+ 
   }
-.button {  background-color: black; border: none;  
-  color: white;  padding: 15px 15px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 10px;}
+button {  background-color: black; border: none;  
+  color: white;  padding: 2px 12px;  
+  display: inline-block;  font-size: 12px;}
