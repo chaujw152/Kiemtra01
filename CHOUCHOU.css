@@ -14,7 +14,7 @@ p{
  
   }
 button {  background-color: black; border: none;  
-  color: white;  padding: 15px 20px;  
+  color: white;  padding: 10px 20px;  
   display: inline-block;  font-size: 12px;}
 
  * {
@@ -32,8 +32,8 @@ button {  background-color: black; border: none;
   }
   
   .tag-list {
-    margin: 30px auto;
-    width: 300px;
+    margin: 20px auto;
+    width: 450px;
   }
    h2 {
     font-size: 20px;
