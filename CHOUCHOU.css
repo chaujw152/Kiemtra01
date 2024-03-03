@@ -15,7 +15,7 @@ p{
   }
 button {  background-color: black; border: none;  
   color: white;  padding: 10px 20px;  
-  display: inline-block;  font-size: 12px;}
+  display: inline-block;  font-size: 10px;}
 
  * {
     margin: 0;
@@ -55,9 +55,4 @@ button {  background-color: black; border: none;
     padding: 4px 10px 3px;
     text-decoration: none;
     transition: 0.3s background-color;
-  }
-h4 { 
-  
-  font-size:22px;
-  margin: 30px auto ;
   }
