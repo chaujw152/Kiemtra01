@@ -142,4 +142,34 @@ button {  background-color: black; border: none;
     text-shadow: 0px 1px 0px #854629;
     transition: 0.3s all;
   }
- 
+  .analytic {
+    background-image: url(https://cdn.glitch.global/e53d98f1-abc2-47c3-9701-96a4b6808b82/bau-troi-ve-dem-voi-mau-hong-rat-dep_042102915.jpg?v=1709519356029);
+    background-position:left top;
+    background-repeat:repeat;
+    color: white;
+    padding: 80px 0 40px;
+    text-align: center;
+    width: 70%;
+  }
+  .analytic ul {
+    text-align: center;
+  }
+  .analytic ul li {
+    color: #fff;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+  }
+  .analytic ul li p {
+    width: 100%;
+  }
+  .analytic ul li .icon {
+    margin-bottom: 14px;
+  }
+  .analytic ul li .icon i {
+    font-size: 45px;
+  }
+  .analytic ul li .number {
+    font-size: 43px;
+    margin-bottom: 7px;
+  }
