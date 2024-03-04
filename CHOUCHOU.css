@@ -113,8 +113,10 @@ button {  background-color: black; border: none;
     border: 1px solid #de4a1e;
   }
 .offer {
-    background: url(/exercises/images/bg_special.png) no-repeat left top;
-    color: #fff;
+    background: url(https://cdn.glitch.global/e53d98f1-abc2-47c3-9701-96a4b6808b82/facebook_cover_coffee_5.jpg?v=1709516418891);
+     Background-position: left top;
+   background-rep
+    color: white;
     padding: 80px 0 60px;
     text-align: center;
     width: 100%;
@@ -131,7 +133,7 @@ button {  background-color: black; border: none;
     background: linear-gradient(to bottom, #e4553f 5%, #d83f2e 100%);
     border-radius: 4px;
     border: 1px solid #942911;
-    color: #fff;
+    color: white;
     display: inline-block;
     font-size: 16px;
     opacity: 1;
